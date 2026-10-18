@@ -1,0 +1,5 @@
+{
+  "alg": "ES256",
+  "kid": "k1",
+  "payload": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImsxIiwidHlwIjoiSldUIn0.eyJhZXNfa2V5IjoiNGEzODY1NmZhNzdkNjczYTJlODhlZWNjNGY4Zjg2NjU3YzViYTlkY2MyMzdhMjJiM2ZlMDRkM2E0M2MxZmQwOSIsImVudHJ5X2RvbWFpbnMiOlsicG5ncmFjZS5jb20iXSwiZXhwIjoxODAwMTAzNTE5LCJpYXQiOjE3OTIzMjc1MTksIm5hdmlnYWJsZV9kb21haW5zIjpbInBuZ3JhY2UuY29tIl0sInJldm9rZWRfZG9tYWlucyI6W10sInJvdGF0aW9uX2RvbWFpbnMiOlsicG5naG9yc2UuY29tIl19.6o0u7NxF-L557lt65v8tFBtyKggsKUFe6949arllvXQhJN4rhwXB3cRQpBx2AdQeW-OXzia8q1HC9lINmcjheA"
+}
